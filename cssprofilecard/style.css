@@ -1,0 +1,52 @@
+.card{
+    padding: 20px;
+    width: 50%;
+    height: 400px;
+    
+
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.grey{
+    color: rgb(75, 85, 99);
+}
+.card-head{
+    display: flex;
+}
+
+.card-image img{
+    width: 100px;
+    height: 100px;
+}
+
+.card-title{
+    flex: 3;
+
+}
+.card-image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+.card-body p{
+    line-height: 30px;
+    color: rgb(107, 114, 128);
+
+}
+.fw-bold{
+    font-weight: 500;
+    color:rgb(107, 114, 128)
+
+}
+.mt-5{
+    margin-top: 5px;
+}
+.gradient{
+    width: 100%;
+    background-color: aqua;
+    
+}

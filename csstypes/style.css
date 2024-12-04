@@ -1,0 +1,16 @@
+/* 
+ */
+ #first{
+    color:green;
+
+ }
+ #second{
+    color:red
+ }
+ .text-success{
+    color:green;
+
+ }
+ .text-dec-underline{
+    text-decoration: underline ;
+ }
